@@ -1,0 +1,7 @@
+{
+  "name": "jsontest",
+  "labels": [
+    {"location": "seoul"},
+    {"language": "korean"}
+  ]
+}
